@@ -1,0 +1,7 @@
+teams:
+  1: ['84b5c07d270944d7a9eb32945986fbd5', '184770a4e865444e8607283430e267f2']
+
+show_location: true
+show_logout: true
+show_health: true
+show_hunger: true

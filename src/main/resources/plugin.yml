@@ -1,0 +1,13 @@
+name: SurvivalPlugin
+version: "1.0"
+api-version: "1.15"
+main: com.github.thatguyjustin.SurvivalPlugin
+authors:
+  - McIsTheLimit
+website: https://gameskeeper.party
+description: "Custom plugin for my 1.15 survival server."
+commands:
+  getchest:
+    description: Gets the love chest
+    aliases: [gc]
+    usage: /<command>
